@@ -32,7 +32,7 @@ Below are key projects that demonstrate my ability to take an idea from data exp
 
 ## 🔗 Connect & Engage
 
-- **LinkedIn:** [My Professional Profile](<YOUR_LINKEDIN_URL>)
+- **LinkedIn:** [My Professional Profile](<www.linkedin.com/in/kaushikharshal>)
 - **Email:** `<your.professional.email@example.com>`
 - **Currently Learning:** *e.g., Advanced Time Series Analysis or MLOps*
 
