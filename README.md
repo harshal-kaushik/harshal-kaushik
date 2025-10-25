@@ -1,4 +1,4 @@
-# Harshal Kaushik | ### Data Scientist | ML Engineer | Python Developer focused on building intelligent applications.
+# Harshal Kaushik | Data Science & ML Engineer
 
 A driven practitioner focused on leveraging **Python, TensorFlow, and Sklearn** to solve complex data challenges and deploy effective machine learning solutions.
 
@@ -14,7 +14,7 @@ A driven practitioner focused on leveraging **Python, TensorFlow, and Sklearn** 
   <img src="https://img.shields.io/badge/-SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   
   <img src="https://img.shields.io/badge/-Streamlit-00C2FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </p>
+</p>
 
 ---
 
@@ -25,15 +25,16 @@ Below are key projects that demonstrate my ability to take an idea from data exp
 | Project | Focus & Stack | Status & Demo |
 | :--- | :--- | :--- |
 | **Indian Startup Funding Analysis** | Comprehensive data analysis and interactive visualization using **Python/Pandas** deployed via **Streamlit**. | [View Live Demo](<LINK_TO_STREAMLIT_APP_OR_DEPLOYMENT>) |
-| **ML Algorithms Collection** | Implementation of core ML models from scratch (**TensorFlow/Sklearn**) to master fundamental concepts. | [View Repository](https://github.com/harshal-kaushik/ML-Algorithms) |
-| **NLP Web Application** | *(Replace this with a 1-line summary of your NLP project and its tech stack)* | [View Repository](https://github.com/harshal-kaushik/NLP-web-app) |
+| **Machine Learning Implementation** | Implementation of core ML models from scratch (**TensorFlow/Sklearn**) to master fundamental concepts. | [View Repository](https://github.com/harshal-kaushik/ML-Algorithms) |
+| **NLP Web Application** | *(Replace this with a 1-line summary of your NLP project and its key features)* | [View Repository](https://github.com/harshal-kaushik/NLP-web-app) |
 
 ---
 
 ## 🔗 Connect & Engage
 
 - **LinkedIn:** [My Professional Profile](<YOUR_LINKEDIN_URL>)
-- **Email:** `<kaushikharshal02@gmail.com>`
+- **Email:** `<your.professional.email@example.com>`
+- **Currently Learning:** *e.g., Advanced Time Series Analysis or MLOps*
 
 <br>
 <p align="center">
