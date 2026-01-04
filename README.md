@@ -26,7 +26,7 @@ Below are key projects that demonstrate my ability to take an idea from data exp
 | :--- | :--- | :--- |
 | **Indian Startup Funding Analysis** | Comprehensive data analysis and interactive visualization using **Python/Pandas** deployed via **Streamlit**. | [View Live Demo](<LINK_TO_STREAMLIT_APP_OR_DEPLOYMENT>) |
 | **Machine Learning Implementation** | Implementation of core ML models from scratch (**TensorFlow/Sklearn**) to master fundamental concepts. | [View Repository](https://github.com/harshal-kaushik/ML-Algorithms) |
-| **NLP Web Application** | *(Replace this with a 1-line summary of your NLP project and its key features)* | [View Repository](https://github.com/harshal-kaushik/NLP-web-app) |
+| **📊 Customer Churn Prediction Model** | *(A machine learning pipeline to predict customer churn and support proactive retention strategies.)* | [View Repository]((https://github.com/harshal-kaushik/Simple-ANN-Project)) |
 
 ---
 
